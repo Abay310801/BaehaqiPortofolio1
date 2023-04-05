@@ -8,7 +8,7 @@
     width: 100%;
     align-items: center;
     background-repeat: no-reprat;
-    background-image: url('./image/BackgroundPetir4.jpg');
+    background-image: url('/image/BackgroundPetir4.jpg');
 }
 nav{
     display: flex;
@@ -100,7 +100,7 @@ h3 {
 .About {
     width: 100%;
     padding: 100px 0;
-    background-image: url('./image/BackgroundPetir2.jpg');
+    background-image: url('/image/BackgroundPetir2.jpg');
     background-size: cover;
     min-height: 300px;
     height: 50%; 
@@ -161,7 +161,7 @@ h3 {
 .skill {
     width: 100%;
     padding: 170px 0;
-    background-image: url('./Image/BackgroundPetir3.jpg');
+    background-image: url('/Image/BackgroundPetir3.jpg');
     background-size: cover;
     min-height: 300px;
     height: 50%; 
